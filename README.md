@@ -35,6 +35,7 @@ Feel free to add me on Discord - xposea#0001, or email me at Cheyenne.Pourkay@gm
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a>
 	<a href="https://github.com/xposea?tab=repositories&q=&type=&language=r&sort=stargazers"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"></a>
 </p>
+
 ##### Databases and Cloud:
 
 <p align = "center">
@@ -44,6 +45,6 @@ Feel free to add me on Discord - xposea#0001, or email me at Cheyenne.Pourkay@gm
 </p>
 
 ##### Stats:
-<p align = "center">
+<p align = "left">
     <a href="#"><img alt="README" src="https://github-readme-stats.vercel.app/api?username=xposea&count_private=true&show_icons=true&theme=bear"></a>
 </p>
