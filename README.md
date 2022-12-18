@@ -21,8 +21,11 @@ Favorite Languages: Python and Java
 Planning to learn: GoLang
 Experience: 2 years.
 
-About me: I started to code about two years ago now, it was a big change from the medical field, but I couldn't be happier!
-Feel free to add me on Discord - xposea#0001, or email me at Cheyenne.Pourkay@gmail.com if you have any questions or suggestions!
+About me: I started to code about two years ago now, 
+it was a big change from the medical field, but I couldn't be happier!
+Feel free to add me on Discord - xposea#0001, 
+or email me at Cheyenne.Pourkay@gmail.com 
+if you have any questions or suggestions!
 ```
 
 ## My Tech Stack:
