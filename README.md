@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my GitHub page!
     <br>
     <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back+End+Developer;2%2B+Years+of+Coding+Experience;Eager+To+Learn&font=Fira%20Code&center=true&width=440&height=45&color=**FA8072&vCenter=true&size=22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back+End+Web+Developer;2%2B+Years+of+Coding+Experience;Eager+To+Learn&font=Fira%20Code&center=true&width=440&height=45&color=**FA8072&vCenter=true&size=22"></a>
 
 ## My current Projects:
 
@@ -35,11 +35,15 @@ Feel free to add me on Discord - xposea#0001, or email me at Cheyenne.Pourkay@gm
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a>
 	<a href="https://github.com/xposea?tab=repositories&q=&type=&language=r&sort=stargazers"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"></a>
 </p>
-
 ##### Databases and Cloud:
 
 <p align = "center">
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
+</p>
+
+##### Stats:
+<p align = "center">
+    <a href="#"><img alt="README" src="https://github-readme-stats.vercel.app/api?username=xposea&count_private=true&show_icons=true&theme=bear"></a>
 </p>
