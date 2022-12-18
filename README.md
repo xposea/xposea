@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my GitHub page!
     <br>
     <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back+End+Web+Developer;2%2B+Years+of+Coding+Experience;Eager+To+Learn&font=Fira%20Code&center=true&width=440&height=45&color=**FA8072&vCenter=true&size=22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back+End+Developer;2%2B+Years+of+Coding+Experience;Eager+To+Learn&font=Fira%20Code&center=true&width=440&height=45&color=**FA8072&vCenter=true&size=22"></a>
 
 ## My current Projects:
 
