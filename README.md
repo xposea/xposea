@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/9d6aa63b-01a6-42eb-96d1-74b505122a86.svg)](https://wakatime.com/@9d6aa63b-01a6-42eb-96d1-74b505122a86) *in the past week*
+[![wakatime](https://wakatime.com/badge/user/9d6aa63b-01a6-42eb-96d1-74b505122a86.svg)](https://wakatime.com/@9d6aa63b-01a6-42eb-96d1-74b505122a86) *since 12/18/22*
 
 <h1 align="center">Welcome to my GitHub page!
     <br>
