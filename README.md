@@ -19,12 +19,12 @@
 Name: Cheyenne Pourkay
 Favorite Languages: Python and Java
 Planning to learn: GoLang
-Experience: 2 years.
+Experience: 4+ years.
 
-About me: I started to code about two years ago now, it was a big change from the medical field, but I couldn't
+About me: I started to code about four years ago now, it was a big change from the medical field, but I couldn't
 be happier!
 
-Feel free to add me on Discord - xposea#0001, or email me at cheyenne.pourkay@gmail.com if you have any questions
+Feel free to add me on Discord - xposea, or email me at cheyenne.pourkay@gmail.com if you have any questions
 or suggestions!
 ```
 
